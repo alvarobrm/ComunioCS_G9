@@ -1,7 +1,7 @@
 Feature: Log in
 	An User must be able to
 	log in entering a username 
-	and password
+	& password
 
 	Scenario: Correct Log in
 		Given an username an password correct
