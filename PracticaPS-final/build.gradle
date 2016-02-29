@@ -51,6 +51,6 @@ task unzip(type: Copy) {
 }
 
 task upload(type: Copy){
-	commit = git.commit(message: 'Añadidas apk',all: true)
-	push = git.push()
+	def commit = git.commit(message: 'Añadidas apk',all: true)
+	def push = git.push()
 }
