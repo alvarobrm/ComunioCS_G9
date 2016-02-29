@@ -3,6 +3,7 @@ apply plugin: 'java'
 
 dependencies {
   testCompile 'junit:junit:4.12'
+  compile 'org.ajoberstar:grgit:1.1.0'
 }
 buildscript {
     repositories {
@@ -13,9 +14,23 @@ buildscript {
 		classpath 'com.android.tools.build:gradle:1.5.0'
 			// NOTE: Do not place your application dependencies here; they belong
 			// in the individual module build.gradle files
+		classpath 'org.ajoberstar:grgit:1.1.0'
 	}
 }
+apply plugin: 'application'
 
+ext {
+    // Open the Git repository in the current directory.
+    git = org.ajoberstar.grgit.Grgit.open(file('../'))
+
+    // Get commit id of HEAD.
+    revision = git.head().id
+    // Alternative is using abbreviatedId of head() method.
+    // revision = git.head().abbreviatedId
+}
+
+mainClassName = 'gitUpload.main'
+applicationName = 'gitUpload'
 
 allprojects {
     repositories {
@@ -33,4 +48,16 @@ task unzip(type: Copy) {
 
     from zipTree(zipFile)
     into outputDir
+}
+
+applicationDistribution.with {
+    from('src/dist') {
+        include 'VERSION'
+        expand(
+            buildDate: new Date(), 
+            // Use revision with Git commit id:
+            revision : revision,
+            version  : project.version,
+            appName  : applicationName)
+    }
 }
