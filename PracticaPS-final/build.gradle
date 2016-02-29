@@ -50,14 +50,7 @@ task unzip(type: Copy) {
     into outputDir
 }
 
-applicationDistribution.with {
-    from('src/dist') {
-        include 'VERSION'
-        expand(
-            buildDate: new Date(), 
-            // Use revision with Git commit id:
-            revision : revision,
-            version  : project.version,
-            appName  : applicationName)
-    }
+task upload(type: Copy){
+	commit = git.commit(message: 'Añadidas apk',all: true)
+	push = git.push()
 }
