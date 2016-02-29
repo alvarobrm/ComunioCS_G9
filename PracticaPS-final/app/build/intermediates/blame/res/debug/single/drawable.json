@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comunio.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\comunio.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plata.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\plata.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\af.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\af.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sym_def_app_icon.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\sym_def_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\batman.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\batman.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext5.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext5.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jm.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\jm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onbuy.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\onbuy.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bronze.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\bronze.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oro3.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\oro3.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pujar.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\pujar.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext7.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext7.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sell.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\sell.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ca.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\ca.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\getmoney.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\getmoney.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext4.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext4.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cerrarsesion.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\cerrarsesion.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jg.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\jg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soldout.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\soldout.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alineacion.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\alineacion.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oro2.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\oro2.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oro.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\oro.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balanza.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\balanza.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo1.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\fondo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unnamed.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\unnamed.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ib.jpeg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\ib.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buy.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nok.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\nok.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comuniobeta.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\comuniobeta.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campo3.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\campo3.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trans.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\trans.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext11.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext11.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconcono.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\iconcono.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jk.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\jk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campo2.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\campo2.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext2.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext8.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext8.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\com.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_contact_picture_2.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\ic_contact_picture_2.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo2.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\fondo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subasta.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\subasta.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\menu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cs.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\cs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext3.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext3.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mercado.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\mercado.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campo.jpg",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\campo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext6.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\drawable\\rounded_edittext6.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
+    }
+]

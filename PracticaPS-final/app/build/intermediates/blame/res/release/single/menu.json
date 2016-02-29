@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\release\\menu\\mainequipo.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\menu\\mainequipo.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawerequipo.xml",
+        "source": "C:\\Users\\USUARIO\\.gitRepos\\ComunioCS_G9\\PracticaPS-final\\app\\src\\main\\res\\menu\\activity_main_drawerequipo.xml"
+    }
+]
